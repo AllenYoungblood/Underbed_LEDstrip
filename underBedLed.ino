@@ -1,8 +1,3 @@
-/*
-  /*
- * PIR sensor tester
- */
-
 int lightSen = A5;    //analog input for photoresistor
 int led = 10;         // this is the PWM pin for the LED strip
 int brightness = 0;    // how bright the LED is on startup
