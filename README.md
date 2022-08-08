@@ -27,3 +27,11 @@ AM312 Mini PIR sensor
 Assorted Lengths of wire
 
 #How to biuld the project
+
+You will need the Arduino IDE installed on your system, alternatively you can use Platform IO in VS code. If you want to use PlatformIO, use this link -> https://docs.platformio.org/en/latest/integration/ide/vscode.html
+
+Start by using the attached image in this project to build your main board. The board only uses one PIR sensor, but you can build it out with two sensors by complementing the second sensor values in the code.
+
+Plug it into the Arduino IDE or PlatformIO and build the project. Then you’re ready to install the device under your bed or anywhere you feel is appropriate. Feel free to change the light level check value if your installation sight has a different ambient light level.
+
+Thanks for taking a look at my project
