@@ -25,3 +25,5 @@ Arduino Nano (or equivalent knock off)
 IRFZ44 N-Channel MOSFET
 AM312 Mini PIR sensor
 Assorted Lengths of wire
+
+#How to biuld the project
